@@ -3,7 +3,7 @@ import Head from "next/head";
 
 export default function Home() {
   return (
-    <div className="min-h-screen flex flex-col">
+    <div className=" flex flex-col overflow-y-hidden">
       <Head>
         <title>اپلیکیشن من با نکست جی‌اس</title>
         <meta name="description" content="صفحه اصلی اپلیکیشن من با نکست جی‌اس" />
