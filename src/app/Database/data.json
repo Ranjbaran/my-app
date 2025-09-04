@@ -1,4 +1,5 @@
-[
+{
+  "articel":[
   {
     "id": 1,
     "title": "راهنمای کامل Tailwind CSS برای مبتدیان",
@@ -39,4 +40,4 @@
     "summary": "روش‌های طراحی صفحات وب واکنش‌گرا با Flexbox و Grid و نکات کاربردی برای موبایل و دسکتاپ.",
     "tags": ["CSS", "Responsive", "Frontend"]
   }
-]
+]}
