@@ -1,43 +1,75 @@
 {
-  "articel":[
-  {
-    "id": 1,
-    "title": "راهنمای کامل Tailwind CSS برای مبتدیان",
-    "author": "محمد رضایی",
-    "publishedAt": "2025-08-01",
-    "summary": "این مقاله اصول اولیه Tailwind CSS را آموزش می‌دهد و نحوه استفاده از کلاس‌های آماده برای طراحی واکنش‌گرا را نشان می‌دهد.",
-    "tags": ["Tailwind", "CSS", "Frontend"]
-  },
-  {
-    "id": 2,
-    "title": "Next.js 15 و ویژگی‌های جدید",
-    "author": "سارا احمدی",
-    "publishedAt": "2025-07-20",
-    "summary": "مروری بر ویژگی‌های جدید Next.js نسخه 15، شامل App Router، Turbopack و بهبودهای رندرینگ.",
-    "tags": ["Next.js", "React", "JavaScript"]
-  },
-  {
-    "id": 3,
-    "title": "بهینه‌سازی عملکرد وب‌سایت‌ها",
-    "author": "علی کریمی",
-    "publishedAt": "2025-06-15",
-    "summary": "تکنیک‌های مختلف برای افزایش سرعت و بهبود تجربه کاربری وب‌سایت‌ها بررسی شده است.",
-    "tags": ["Performance", "Web", "Optimization"]
-  },
-  {
-    "id": 4,
-    "title": "استفاده از TypeScript در پروژه‌های بزرگ",
-    "author": "مریم حسینی",
-    "publishedAt": "2025-05-10",
-    "summary": "چگونگی استفاده  از TypeScript برای کاهش خطاهای زمان اجرا و بهبود نگهداری کد در پروژه‌های بزرگ توضیح داده شده است.",
-    "tags": ["TypeScript", "JavaScript", "Programming"]
-  },
-  {
-    "id": 5,
-    "title": "طراحی ریسپانسیو با CSS مدرن",
-    "author": "حسین نادری",
-    "publishedAt": "2025-04-22",
-    "summary": "روش‌های طراحی صفحات وب واکنش‌گرا با Flexbox و Grid و نکات کاربردی برای موبایل و دسکتاپ.",
-    "tags": ["CSS", "Responsive", "Frontend"]
-  }
-]}
+  "articel": [
+    {
+      "id": "1",
+      "title": "راهنمای کامل Tailwind CSS برای مبتدیان",
+      "author": "محمد رضایی",
+      "publishedAt": "2025-08-01",
+      "summary": "این مقاله اصول اولیه Tailwind CSS را آموزش می‌دهد و نحوه استفاده از کلاس‌های آماده برای طراحی واکنش‌گرا را نشان می‌دهد.",
+      "tags": [
+        "Tailwind",
+        "CSS",
+        "Frontend"
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Next.js 15 و ویژگی‌های جدید",
+      "author": "سارا احمدی",
+      "publishedAt": "2025-07-20",
+      "summary": "مروری بر ویژگی‌های جدید Next.js نسخه 15، شامل App Router، Turbopack و بهبودهای رندرینگ.",
+      "tags": [
+        "Next.js",
+        "React",
+        "JavaScript"
+      ]
+    },
+    {
+      "id": "3",
+      "title": "بهینه‌سازی عملکرد وب‌سایت‌ها",
+      "author": "علی کریمی",
+      "publishedAt": "2025-06-15",
+      "summary": "تکنیک‌های مختلف برای افزایش سرعت و بهبود تجربه کاربری وب‌سایت‌ها بررسی شده است.",
+      "tags": [
+        "Performance",
+        "Web",
+        "Optimization"
+      ]
+    },
+    {
+      "id": "4",
+      "title": "استفاده از TypeScript در پروژه‌های بزرگ",
+      "author": "مریم حسینی",
+      "publishedAt": "2025-05-10",
+      "summary": "چگونگی استفاده  از TypeScript برای کاهش خطاهای زمان اجرا و بهبود نگهداری کد در پروژه‌های بزرگ توضیح داده شده است.",
+      "tags": [
+        "TypeScript",
+        "JavaScript",
+        "Programming"
+      ]
+    },
+    {
+      "id": "5",
+      "title": "طراحی ریسپانسیو با CSS مدرن",
+      "author": "حسین نادری",
+      "publishedAt": "2025-04-22",
+      "summary": "روش‌های طراحی صفحات وب واکنش‌گرا با Flexbox و Grid و نکات کاربردی برای موبایل و دسکتاپ.",
+      "tags": [
+        "CSS",
+        "Responsive",
+        "Frontend"
+      ]
+    },
+
+    {
+      "id": "91",
+      "title": "آموزش ریداکس",
+      "author": "الهام رنجبران",
+      "publishedAt": "2025-09-12",
+      "summary": "جهت یادگیری ریداکس شما ابتدا باید ری اکت و نکست جی اس رو آموزش دیده باشید",
+      "tags": [
+        "ریداکس"
+      ]
+    }
+  ]
+}

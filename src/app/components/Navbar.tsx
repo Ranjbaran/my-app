@@ -11,6 +11,9 @@ function Navbrar() {
           <Link href="/blogs">مقالات</Link>
         </li>
         <li>
+          <Link href="/create-blogs">ایجاد مقاله جدید </Link>
+        </li>
+          <li>
           <Link href="/about">درباره ما</Link>
         </li>
       </ul>
